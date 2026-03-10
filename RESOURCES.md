@@ -7,3 +7,4 @@ management for production services](https://learning.oreilly.com/library/view/an
 
 ## Articles
 1. Förster, A., Hollick, M., Katzenbeisser, S., & Krauss, C. (2026). [Resilience meets security in cyber-physical systems and critical infrastructures](https://doi.org/10.1145/3768169). Communications of the ACM, 69(2), 35–38.
+2. Crume, A., Cepoi, A., Granados, C., Loza, R., McGhee, S., Gites, S., Mattson-Hamilton, T., & Stacey, V. (2023). [Google Site Reliability Engineering: Incident Management Guide](https://sre.google/resources/practices-and-processes/incident-management-guide/). Google SRE Resources.
